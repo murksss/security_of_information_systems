@@ -1,4 +1,4 @@
-# security_of_snformation_systems
+# security_of_information_systems
 
 Functionality of the program:
 - file encryption;
